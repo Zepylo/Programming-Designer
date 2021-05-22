@@ -1,1 +1,757 @@
+.tonto{
 
+  color: white;
+
+}
+
+.YouTube{
+
+  float: left ;
+
+margin-left:175px ;
+
+}
+
+.Tiktok{
+
+  float: right ;
+
+  margin-right: 200px ;
+
+  
+
+}
+
+.doublas{
+
+  color: white ;
+
+}
+
+.escuela{
+
+border-left: 2px solid blue ;
+
+  margin-right:600px ;
+
+}
+
+.sencillo{
+
+margin-left: 600px ;
+
+ border-right: 2px solid blue ;
+
+}
+
+.alba{
+
+  float: left;
+
+ 
+
+}
+
+.sergio{
+
+  float: right ;
+
+  margin-top: 10px ;
+
+}
+
+.peter,.parker{
+
+  font-size: 22px ;
+
+  margin-top: 50px ;
+
+  margin-right: 20px;
+
+  margin-left:20px;
+
+  border-top: 1px solid black ;
+
+}
+
+ 
+
+ 
+
+ 
+
+ 
+
+ .container_mobile {
+
+      margin-top: 50px ;
+
+      width: 300px;
+
+      height: 570px;
+
+      border-radius: 40px;
+
+      background-color: black;
+
+      margin-left: 125px ; 
+
+    }
+
+    
+
+   .diamante{
+
+     background: linear-gradient(#D2CE27, #D227CB);
+
+   }
+
+    .box_up {
+
+      width: 100%;
+
+      height: 50px;
+
+      display: flex;
+
+      align-items: center;
+
+      position: inline-block ;
+
+    }
+
+   .o{
+
+     margin-top: 100px ;
+
+     text-align: center ;
+
+   }
+
+    .camara {
+
+      display: block;
+
+      width: 15px;
+
+      height: 15px;
+
+      border-radius: 50px;
+
+      background-color: rgb(107, 107, 107);
+
+      margin-left: 40px;
+
+      position: relative;
+
+      display: flex;
+
+      justify-content: center;
+
+    }
+
+   .div{
+
+     margin-top:15px;
+
+   }
+
+    .camara:before {
+
+      content: '';
+
+      display: block;
+
+      width: 11px;
+
+      border-radius: 50%;
+
+      background-color: rgb(119, 148, 150);
+
+      position: absolute ;
+
+    }
+
+    .circle {
+
+      display: block;
+
+      width: 8px;
+
+      height: 8px;
+
+      border-radius: 50%;
+
+      background-color: rgb(107, 107, 107);
+
+      margin-left: 10px;
+
+      position: relative;
+
+    }
+
+    .circle:before {
+
+      content: '';
+
+      display: block;
+
+      position: absolute;
+
+      width: 100%;
+
+      height: 100%;
+
+      background-color: rgb(107, 107, 107);
+
+      left: 11px;
+
+      border-radius: 50%;
+
+    }
+
+    .audio_up {
+
+      display: block ;
+
+      width: 60px;
+
+      height: 7px;
+
+      border-radius: 20px;
+
+      background-color: rgb(107, 107, 107);
+
+      position: absolute;
+
+      left: 50%;
+
+      transform: translateX(-50%);
+
+    }
+
+    .screen {
+
+          width: 280px;
+
+          height: 450px;
+
+          background:linear-gradient(#B9B311, #AF19DC);
+
+          border-radius: 5px;
+
+          margin: 0 auto;
+
+    
+
+    
+
+        }
+
+    .buttons-down {
+
+      width: 100%;
+
+      height: 70px;
+
+      display: flex;
+
+      justify-content: center;
+
+      align-items: center;
+
+    }
+
+    
+
+     .containermobile {
+
+      width: 300px;
+
+      height: 570px;
+
+      border-radius: 40px;
+
+      background-color: black;
+
+      margin: 40px auto ;
+
+      margin-right: 125px ;
+
+    }
+
+    
+
+   .diamante{
+
+     background: linear-gradient(#D2CE27, #D227CB);
+
+   }
+
+    .boxup {
+
+      width: 100%;
+
+      height: 50px;
+
+      display: flex;
+
+      align-items: center;
+
+      position: inline;
+
+    }
+
+    .camar {
+
+      display: block;
+
+      width: 15px;
+
+      height: 15px;
+
+      border-radius: 50px;
+
+      background-color: rgb(107, 107, 107);
+
+      margin-left: 40px;
+
+      position: relative;
+
+      display: flex;
+
+      justify-content: center;
+
+      align-items: center;
+
+    }
+
+   .main{
+
+     margin-top:10px ;
+
+     font-size:22px ;
+
+     border-top: 1px solid black ;
+
+     
+
+  }
+
+    .camar:before {
+
+      content: '';
+
+      display: block;
+
+      width: 11px;
+
+      border-radius: 50%;
+
+      background-color: rgb(119, 148, 150);
+
+      position: absolute;
+
+    }
+
+    .circl {
+
+      display: block;
+
+      width: 8px;
+
+      height: 8px;
+
+      border-radius: 50%;
+
+      background-color: rgb(107, 107, 107);
+
+      margin-left: 10px;
+
+      position: relative;
+
+    }
+
+    .circl:before {
+
+      content: '';
+
+      display: block;
+
+      position: absolute;
+
+      width: 100%;
+
+      height: 100%;
+
+      background-color: rgb(107, 107, 107);
+
+      left: 11px;
+
+      border-radius: 50%;
+
+    }
+
+  .audioup{
+
+      display: block;
+
+      width: 60px;
+
+      height: 7px;
+
+      border-radius: 20px;
+
+      background-color: rgb(107, 107, 107);
+
+      position: absolute;
+
+      left: 50%;
+
+      transform: translateX(-50%);
+
+    }
+
+    .scren{
+
+          width: 280px;
+
+          height: 450px;
+
+          background: #FFDA7A;
+
+          border-radius: 5px;
+
+          margin: 0 auto;
+
+    
+
+    
+
+        }
+
+    
+
+    header {
+
+background-image:url(Programación.jpg);
+
+      width:990px ;
+
+      height:350px ;
+
+      color: white ;
+
+    }
+
+.inicio{
+
+  text-align: center ;
+
+  margin-top: 100px;
+
+  font-size:50px;
+
+  
+
+}
+
+    .banner-contenedor {
+
+      text-align: center;
+
+      font-size: 22px;
+
+  }
+
+    .section {
+
+      font-size: 22px;
+
+    }
+
+    .contacto {
+
+      margin-top: 100px;
+
+      color: black;
+
+      text-align: center;
+
+    }
+
+    .fab {
+
+      font-size: 50px;
+
+    }
+
+    .es {
+
+      border-top: 1px solid blue;
+
+      margin-left: 200px;
+
+      margin-right: 200px;
+
+    }
+
+    footer {
+
+      color: black;
+
+    }
+
+    .Proyectos {
+
+      margin-top:100px ;
+
+     text-align:center ;
+
+    }
+
+    .servicios {
+
+      margin-top: 50px;
+
+      text-align: center;
+
+    }
+
+    .que {
+
+      margin-top: 100px;
+
+      text-align: center;
+
+    }
+
+    .vista {
+
+      margin-top: 100px;
+
+      text-align: center;
+
+    }
+
+    .navegador {
+
+      width: 1000px;
+
+      margin: 30px auto;
+
+    }
+
+    
+
+   .img{
+
+     margin-left:33px;
+
+     height:100px;
+
+   }
+
+   
+
+   
+
+    .navegador ul {
+
+      list-style: none;
+
+    }
+
+    .menu>li {
+
+      /*position: relative;*/
+
+      display: inline-block;
+
+    }
+
+    .menu>li>a {
+
+      display: block;
+
+      padding: 15px 20px;
+
+      color: white ;
+
+      font-family: "Open sans";
+
+      text-decoration: none;
+
+    }
+
+    .menu li a:hover {
+
+      color: #CE7D35;
+
+      transition: all .10s;
+
+    }
+
+    .vista ul {
+
+      list-style: none;
+
+      padding: 0;
+
+    }
+
+    .diamante {
+
+      text-align: left;
+
+    }
+
+    .from-register {
+
+      width: 400px;
+
+      background: white;
+
+      padding: 30px;
+
+      margin: auto;
+
+      margin-top: 100px;
+
+      border-radius: 4px;
+
+      font-family: 'calibri';
+
+      color: black;
+
+      box-shadow: 7px 13px 37px #000;
+
+      margin-top: 100px;
+
+    }
+
+    .from-register h3 {
+
+      font-size: 22px;
+
+      margin-bottom: 20px;
+
+      margin-left: 150px;
+
+    }
+
+    .h3 {
+
+      font-size: 12px;
+
+      margin-bottom: 20px;
+
+      text-align: left;
+
+    }
+
+    .controls {
+
+      width: 100%;
+
+      padding: 10px;
+
+      border-radius: 4px;
+
+      margin-bottom: 16px;
+
+      border: 1px solid black;
+
+      font-family: 'calibri';
+
+      font-size: 18px;
+
+    }
+
+    .from-register p {
+
+      height: 40px;
+
+      text-align: center;
+
+      font-size: 18px;
+
+    }
+
+    .from-register a {
+
+      color: black;
+
+      text-decoration: none;
+
+    }
+
+    .from-register a:hover {
+
+      color: black;
+
+      text-decoration: underline;
+
+    }
+
+    .from-register .botons {
+
+      width: 100%;
+
+      background: #1f53c5;
+
+      border: none;
+
+      padding: 12px;
+
+      color: white;
+
+      margin: 16px 0;
+
+      font-size: 16px;
+
+      text-align: center;
+
+    } 
+
+    
+
+    body{
+
+      font-family: sans-serif;
+
+   }
+
+   
+
+.derecha{
+
+  float: right ;
+
+  margin-right: 200px ;
+
+  text-align:center ;
+
+}
+
+.izquierda{
+
+  float:left ;
+
+  margin-left: 200px ;
+
+}
+
+.juego{
+
+  text-align: center ;
+
+  margin-top: 50px ;
+
+}
+
+.messi{
+
+  color: white ;
+
+}
